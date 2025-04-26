@@ -182,3 +182,17 @@ Now add interactivity in your dashboard like navigation buttons, chart alt displ
 
 # 7 & # 8 Testing and Sharing
 Ensure to conduct an extensive UAT session which will identify any bugs or data issues. After this you are ready to share your dashboard with a larger audience. Before sharing/publishing consider Row Level Security features within Power BI services. There is a detailed video on my Youtube channel, showing you how to setup the same.
+
+# KEY POINTS
+
+Designed and developed an interactive Power BI dashboard to monitor patient waiting lists, utilizing DAX measures, data modeling, and visualization best practices for real-time and historical analysis (2018–2021).
+
+Streamlined and transformed healthcare data from multiple sources by implementing Power Query techniques such as data cleaning, table appending, and specialty mapping, ensuring high data quality and consistency.
+
+Enhanced dashboard usability by incorporating dynamic metrics (Average vs. Median waitlist views), detailed drill-down capabilities, and custom tooltip pages, improving stakeholder decision-making and reporting efficiency.
+
+
+# CONCLUSION
+Through this project, I successfully designed and deployed a comprehensive healthcare analytics dashboard in Power BI, enabling real-time tracking and in-depth analysis of patient waitlists across multiple specialties. By applying advanced data transformation, dynamic DAX calculations, and interactive visualizations, the solution significantly improved visibility into operational performance, supported data-driven decision-making for stakeholders, and enhanced the efficiency of healthcare service management.
+
+
